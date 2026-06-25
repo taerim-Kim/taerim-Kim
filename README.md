@@ -1,7 +1,7 @@
 # Hi there! 👋
 
 I'm an **AI major** building expertise through diverse research and project participation.  
-Passionate about autonomous driving, machine learning, and cutting-edge AI technologies.
+Experienced in autonomous systems, machine learning, and full-stack development.
 
 ---
 
