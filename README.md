@@ -1,7 +1,7 @@
 # Hi there! 👋
 
-I'm a developer passionate about **Autonomous Driving AI Technology**.  
-Experienced in full-stack development, AI/ML, and data processing across diverse domains.
+I'm an **AI major** building expertise through diverse research and project participation.  
+Passionate about autonomous driving, machine learning, and cutting-edge AI technologies.
 
 ---
 
@@ -26,6 +26,16 @@ Experienced in full-stack development, AI/ML, and data processing across diverse
 
 ---
 
+### **PineappleGame - Mobile Game Development** 🍍
+**Collaborative mobile game development project for learning Android programming.**
+
+- **Repository**: [PSJ1564/moblie_programing](https://github.com/PSJ1564/moblie_programing)
+- **Description**: Mobile game development environment with team collaboration
+- **Tech Stack**: Java, Android
+- **Focus**: Game mechanics, UI/UX, mobile optimization
+
+---
+
 ## 💻 Tech Stack
 
 ### Programming Languages
@@ -39,6 +49,7 @@ Experienced in full-stack development, AI/ML, and data processing across diverse
 - 🧠 **Machine Learning** - Model development, training, optimization
 - 🌐 **Web Development** - Full-stack applications, microservices
 - 📊 **Data Science** - Analytics, visualization, insights extraction
+- 📱 **Mobile Development** - Android game development, UI design
 
 ---
 
@@ -55,7 +66,7 @@ Experienced in full-stack development, AI/ML, and data processing across diverse
 
 ## 🚀 What's Next
 
-Working on exciting new projects to push the boundaries of AI and autonomous systems.
+Continuing research and development in AI, exploring new frontiers in autonomous systems and machine learning applications.
 
 ---
 
@@ -66,4 +77,4 @@ Working on exciting new projects to push the boundaries of AI and autonomous sys
 
 ---
 
-> 💡 "Making the world safer and smarter through technology."
+> 💡 "Gaining experience through diverse research and projects to advance AI technology."
